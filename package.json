@@ -1,7 +1,7 @@
 {
-  "homepage": "https://holmstain.github.io/holm-todo/",
+  "homepage": "todo-app.holmstain.com",
   "name": "holm-todo",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
