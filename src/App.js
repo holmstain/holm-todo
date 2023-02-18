@@ -75,7 +75,7 @@ const deleteTodo = async (id) => {
         </ul>
 
         {todos.length < 1 ? null :
-        <p className={style.count}>{`You have ${todos.length} todos`}</p>}
+        <p className={style.count}>{`${todos.length} adet göreviniz var`}</p>}
         
       </div>
     </div>
