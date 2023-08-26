@@ -1,7 +1,7 @@
 - ## Türkçe
 
 # **Holm Yapılacaklar Listem**
-    Bu uygulama kullanıcıların yapılacaklar listesi oluşturmasına yapılacak görevlerinin takibine olanak sağlar. Kullanıcıya gün içerisinde yapacağı görevlerinin hatırlatılmasına yardımcı olur.
+Bu uygulama kullanıcıların yapılacaklar listesi oluşturmasına yapılacak görevlerinin takibine olanak sağlar. Kullanıcıya gün içerisinde yapacağı görevlerinin hatırlatılmasına yardımcı olur.
 
 ### **Kullanım**
 
@@ -19,9 +19,9 @@
 
 ## **Geliştirici Notu**
     
-    Holm To Do, Javascript, React, TailwindCss ve Firebase tabanlı bir uygulamadır. Holm To Do, TailwindCss kullandığım ilk uygulama olma özelliği taşıyor. Firebase tarafında Auth ve Database kullanımımı tekrar ettim.
+Holm To Do, Javascript, React, TailwindCss ve Firebase tabanlı bir uygulamadır. Holm To Do, TailwindCss kullandığım ilk uygulama olma özelliği taşıyor. Firebase tarafında Auth ve Database kullanımımı tekrar ettim.
 
-    Kullanıcı uygulamayı iş ya da kişisel hayatında kullanabilir. Firebase, Google tabanlı olduğundan akıllı cihazından da uygulamaya erişim sağlayabilir. Çok yakında Google Play Store'da da yerini alacak olan uygulamam, kullanıcının isteğine göre Web ya da App sürümü kullanılabilir. Herhangi bir bilgi kaybı veya görev eksikliği yaşanmaz.
+Kullanıcı uygulamayı iş ya da kişisel hayatında kullanabilir. Firebase, Google tabanlı olduğundan akıllı cihazından da uygulamaya erişim sağlayabilir. Çok yakında Google Play Store'da da yerini alacak olan uygulamam, kullanıcının isteğine göre Web ya da App sürümü kullanılabilir. Herhangi bir bilgi kaybı veya görev eksikliği yaşanmaz.
 
 ## **Gelecek Özellikler**
 
