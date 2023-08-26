@@ -1,4 +1,4 @@
-## - Türkçe
+## Türkçe
 
 # **Holm Yapılacaklar Listem**
 Bu uygulama kullanıcıların yapılacaklar listesi oluşturmasına yapılacak görevlerinin takibine olanak sağlar. Kullanıcıya gün içerisinde yapacağı görevlerinin hatırlatılmasına yardımcı olur.
