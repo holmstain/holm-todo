@@ -30,3 +30,6 @@ Kullanıcı uygulamayı iş ya da kişisel hayatında kullanabilir. Firebase, Go
 - Play Store yüklemesi sonrası "Push Notification" yani mobil bildirimler aktif edilecek.
 
 - Tema/Font değişimi
+
+# ÖNEMLİ
+- UYGULAMAYA ERİŞMEK VE KULLANMAK İÇİN https://todo-app.holmstain.com/
